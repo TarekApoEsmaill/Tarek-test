@@ -1,0 +1,135 @@
+.a .aa{
+    display: flex;
+    padding: 2rem 5rem; 
+}
+.a .aaa{
+    font-size: x-large;
+    display: flex;
+    padding-top: 4rem;
+    padding-left: 35%;
+}
+.a .aaa a{
+
+    text-decoration: none;
+    background-color: rgb(24, 24, 255);
+    color: white;
+    font-size:large;
+    border-radius: 7px;
+    padding: 8px 16px;
+}
+.b{
+    height: 70vh;
+    background-image: url(../imges/img\ 1.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.c{
+    padding: 1.45rem;
+}
+.c .cc{
+    padding: 4rem;
+}
+.c .ccc{
+    padding: 4rem;
+}
+.c .cccc{
+    padding: 4rem;
+}
+.d{
+    padding: 5rem 1.5rem 0rem 1.5rem;
+}
+.d .dd{
+    padding: 10rem 5rem 0rem 5rem;
+}
+.d .ddd{
+    background-image: url(../imges/img\ 2.JPG);
+    border: 1px solid black;
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+.e{
+    padding: 0rem 1.5rem 0rem 1.5rem;
+}
+.e .ee{
+    background-image: url(../imges/img\ 3.JPG);
+    border: 1px solid black;
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+.e .eee{
+    padding: 10rem 5rem 0rem 5rem;
+}
+.f{
+    padding: 0rem 1.5rem 0rem 1.5rem;
+}
+.f .ff{
+    padding: 10rem 5rem 0rem 5rem;
+}
+.f .fff{
+    background-image: url(../imges/img\ 4.JPG);
+    border: 1px solid black;
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+.bla{
+    padding-top: 8rem;
+}
+.g{
+    padding-top: 4rem;
+}
+.g h3{
+    padding-top: 1rem;
+}
+.g .gg img{
+
+    height: 38vh;
+    width: 38vh;
+    background-size: cover;
+    background-position: center;
+    border: 3px solid rgba(0, 0, 0, 0.288);
+    border-radius: 100%;
+}
+.g .ggg img{
+    height: 38vh;
+    width: 38vh;
+    background-size: cover;
+    background-position: center;
+    border: 3px solid rgba(0, 0, 0, 0.288);
+    border-radius: 100%;
+}
+.g .gggg img{
+    height: 38vh;
+    width: 38vh;
+    background-size: cover;
+    background-position: center;
+    border: 3px solid rgba(0, 0, 0, 0.288);
+    border-radius: 100%;
+}
+p{
+    color: rgb(80, 80, 80);
+}
+.h{
+    padding-top: 3rem;
+}
+.i{
+    height: 50vh;
+    background-image: url(../imges/img\ 5.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.j{
+    padding: 2rem 0rem 0rem 11px;
+}
